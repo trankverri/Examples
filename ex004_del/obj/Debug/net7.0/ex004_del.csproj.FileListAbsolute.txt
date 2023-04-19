@@ -1,0 +1,15 @@
+C:\Repositories\Examples\ex004_del\bin\Debug\net7.0\ex004_del.exe
+C:\Repositories\Examples\ex004_del\bin\Debug\net7.0\ex004_del.deps.json
+C:\Repositories\Examples\ex004_del\bin\Debug\net7.0\ex004_del.runtimeconfig.json
+C:\Repositories\Examples\ex004_del\bin\Debug\net7.0\ex004_del.dll
+C:\Repositories\Examples\ex004_del\bin\Debug\net7.0\ex004_del.pdb
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.csproj.AssemblyReference.cache
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.AssemblyInfoInputs.cache
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.AssemblyInfo.cs
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.dll
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\refint\ex004_del.dll
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.pdb
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ex004_del.genruntimeconfig.cache
+C:\Repositories\Examples\ex004_del\obj\Debug\net7.0\ref\ex004_del.dll

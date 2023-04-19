@@ -1,0 +1,15 @@
+C:\Repositories\Examples\ex002_helluser\bin\Debug\net7.0\ex002_helluser.exe
+C:\Repositories\Examples\ex002_helluser\bin\Debug\net7.0\ex002_helluser.deps.json
+C:\Repositories\Examples\ex002_helluser\bin\Debug\net7.0\ex002_helluser.runtimeconfig.json
+C:\Repositories\Examples\ex002_helluser\bin\Debug\net7.0\ex002_helluser.dll
+C:\Repositories\Examples\ex002_helluser\bin\Debug\net7.0\ex002_helluser.pdb
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.csproj.AssemblyReference.cache
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.AssemblyInfoInputs.cache
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.AssemblyInfo.cs
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.dll
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\refint\ex002_helluser.dll
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.pdb
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ex002_helluser.genruntimeconfig.cache
+C:\Repositories\Examples\ex002_helluser\obj\Debug\net7.0\ref\ex002_helluser.dll
