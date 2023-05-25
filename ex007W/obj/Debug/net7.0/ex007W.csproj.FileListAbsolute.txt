@@ -1,0 +1,15 @@
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.csproj.AssemblyReference.cache
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.AssemblyInfoInputs.cache
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.AssemblyInfo.cs
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\ex007W\bin\Debug\net7.0\ex007W.exe
+C:\Repositories\Examples\ex007W\bin\Debug\net7.0\ex007W.deps.json
+C:\Repositories\Examples\ex007W\bin\Debug\net7.0\ex007W.runtimeconfig.json
+C:\Repositories\Examples\ex007W\bin\Debug\net7.0\ex007W.dll
+C:\Repositories\Examples\ex007W\bin\Debug\net7.0\ex007W.pdb
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.dll
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\refint\ex007W.dll
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.pdb
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ex007W.genruntimeconfig.cache
+C:\Repositories\Examples\ex007W\obj\Debug\net7.0\ref\ex007W.dll

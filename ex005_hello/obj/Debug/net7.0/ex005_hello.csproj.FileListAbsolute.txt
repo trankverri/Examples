@@ -1,0 +1,15 @@
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.csproj.AssemblyReference.cache
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.AssemblyInfoInputs.cache
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.AssemblyInfo.cs
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\ex005_hello\bin\Debug\net7.0\ex005_hello.exe
+C:\Repositories\Examples\ex005_hello\bin\Debug\net7.0\ex005_hello.deps.json
+C:\Repositories\Examples\ex005_hello\bin\Debug\net7.0\ex005_hello.runtimeconfig.json
+C:\Repositories\Examples\ex005_hello\bin\Debug\net7.0\ex005_hello.dll
+C:\Repositories\Examples\ex005_hello\bin\Debug\net7.0\ex005_hello.pdb
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.dll
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\refint\ex005_hello.dll
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.pdb
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ex005_hello.genruntimeconfig.cache
+C:\Repositories\Examples\ex005_hello\obj\Debug\net7.0\ref\ex005_hello.dll

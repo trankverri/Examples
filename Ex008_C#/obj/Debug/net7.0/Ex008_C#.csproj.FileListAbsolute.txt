@@ -1,0 +1,15 @@
+C:\Repositories\Examples\Ex008_C#\bin\Debug\net7.0\Ex008_C#.exe
+C:\Repositories\Examples\Ex008_C#\bin\Debug\net7.0\Ex008_C#.deps.json
+C:\Repositories\Examples\Ex008_C#\bin\Debug\net7.0\Ex008_C#.runtimeconfig.json
+C:\Repositories\Examples\Ex008_C#\bin\Debug\net7.0\Ex008_C#.dll
+C:\Repositories\Examples\Ex008_C#\bin\Debug\net7.0\Ex008_C#.pdb
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.csproj.AssemblyReference.cache
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.AssemblyInfoInputs.cache
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.AssemblyInfo.cs
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.dll
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\refint\Ex008_C#.dll
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.pdb
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\Ex008_C#.genruntimeconfig.cache
+C:\Repositories\Examples\Ex008_C#\obj\Debug\net7.0\ref\Ex008_C#.dll
