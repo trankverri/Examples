@@ -1,0 +1,15 @@
+C:\Repositories\Examples\ex-010\bin\Debug\net7.0\ex-010.exe
+C:\Repositories\Examples\ex-010\bin\Debug\net7.0\ex-010.deps.json
+C:\Repositories\Examples\ex-010\bin\Debug\net7.0\ex-010.runtimeconfig.json
+C:\Repositories\Examples\ex-010\bin\Debug\net7.0\ex-010.dll
+C:\Repositories\Examples\ex-010\bin\Debug\net7.0\ex-010.pdb
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.csproj.AssemblyReference.cache
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.AssemblyInfoInputs.cache
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.AssemblyInfo.cs
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.dll
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\refint\ex-010.dll
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.pdb
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ex-010.genruntimeconfig.cache
+C:\Repositories\Examples\ex-010\obj\Debug\net7.0\ref\ex-010.dll

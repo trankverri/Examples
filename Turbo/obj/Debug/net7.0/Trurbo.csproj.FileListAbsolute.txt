@@ -1,0 +1,5 @@
+C:\Repositories\Examples\Trurbo\obj\Debug\net7.0\Trurbo.csproj.AssemblyReference.cache
+C:\Repositories\Examples\Trurbo\obj\Debug\net7.0\Trurbo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\Trurbo\obj\Debug\net7.0\Trurbo.AssemblyInfoInputs.cache
+C:\Repositories\Examples\Trurbo\obj\Debug\net7.0\Trurbo.AssemblyInfo.cs
+C:\Repositories\Examples\Trurbo\obj\Debug\net7.0\Trurbo.csproj.CoreCompileInputs.cache
