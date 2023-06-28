@@ -1,0 +1,5 @@
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.csproj.AssemblyReference.cache
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.AssemblyInfoInputs.cache
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.AssemblyInfo.cs
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.csproj.CoreCompileInputs.cache
