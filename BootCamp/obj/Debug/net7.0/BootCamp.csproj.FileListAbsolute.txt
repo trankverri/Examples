@@ -3,3 +3,13 @@ C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.GeneratedMSBuildEdit
 C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.AssemblyInfoInputs.cache
 C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.AssemblyInfo.cs
 C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.csproj.CoreCompileInputs.cache
+C:\Repositories\Examples\BootCamp\bin\Debug\net7.0\BootCamp.exe
+C:\Repositories\Examples\BootCamp\bin\Debug\net7.0\BootCamp.deps.json
+C:\Repositories\Examples\BootCamp\bin\Debug\net7.0\BootCamp.runtimeconfig.json
+C:\Repositories\Examples\BootCamp\bin\Debug\net7.0\BootCamp.dll
+C:\Repositories\Examples\BootCamp\bin\Debug\net7.0\BootCamp.pdb
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.dll
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\refint\BootCamp.dll
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.pdb
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\BootCamp.genruntimeconfig.cache
+C:\Repositories\Examples\BootCamp\obj\Debug\net7.0\ref\BootCamp.dll
